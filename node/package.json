@@ -1,0 +1,23 @@
+{
+  "name": "weathersensor_node",
+  "version": "1.0.0",
+  "description": "weather sensor for myself project",
+  "keywords": [
+    "weathersensor"
+  ],
+  "homepage": "https://github.com/Akawatmor/WeatherSensor_Node#readme",
+  "bugs": {
+    "url": "https://github.com/Akawatmor/WeatherSensor_Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akawatmor/WeatherSensor_Node.git"
+  },
+  "license": "ISC",
+  "author": "AkaSKO",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
